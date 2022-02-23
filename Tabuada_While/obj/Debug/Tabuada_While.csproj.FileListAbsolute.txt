@@ -1,0 +1,10 @@
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\bin\Debug\Tabuada_While.exe.config
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\bin\Debug\Tabuada_While.exe
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\bin\Debug\Tabuada_While.pdb
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.csprojAssemblyReference.cache
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.Form1.resources
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.Properties.Resources.resources
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.csproj.GenerateResource.cache
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.csproj.CoreCompileInputs.cache
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.exe
+C:\Users\Dubst\source\repos\Tabuada_While\Tabuada_While\obj\Debug\Tabuada_While.pdb
